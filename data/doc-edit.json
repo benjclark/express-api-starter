@@ -1,0 +1,10 @@
+{
+  "email": "ben@clark.com",
+  "pollingUrl": "https://beta.springernature.com/doc-polling",
+  "validation": "passed",
+  "errors": [
+    {
+      "message": "it gone broke"
+    }
+  ]
+}
