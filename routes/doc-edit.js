@@ -9,7 +9,6 @@ const docEdit = (app, fs) => {
             if (err) {
                 throw err;
             }
-
             res.send(JSON.parse(data));
         });
     });
