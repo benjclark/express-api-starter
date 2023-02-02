@@ -1,5 +1,5 @@
 {
-  "name": "api-server-starter",
+  "name": "express-api-starter",
   "version": "1.0.0",
   "description": "A lightweight starter kit for building a Node-based API server",
   "main": "server.js",
@@ -19,7 +19,7 @@
     "starter",
     "kit"
   ],
-  "author": "Rob Kendal",
+  "author": "Ben Clark",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bpk68/api-server-starter/issues"
